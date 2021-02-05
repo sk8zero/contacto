@@ -1,5 +1,5 @@
 <?php
-    $destinatario = 'hola@alexcgdesing.com';
+    $destinatario = 'fragamarcos88@gmail.com';
     // esto es al correo al que se enviara el mensaje
 
     $nombre = $_POST['nombre'];
